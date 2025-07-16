@@ -128,7 +128,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗 [Vyomart on Render](https://vyomart.onrender.com) *(replace with actual live URL)*
+🔗 [Vyomart on Render](vyomart-frontend.onrender.com) 
 
 ---
 
@@ -143,9 +143,4 @@ npm run dev
 
 This project is open-source and created for educational and learning purposes.
 
-```
-
 ---
-
-
-```
