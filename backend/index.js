@@ -17,7 +17,7 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
- origin:["https://vyomart-frontend.onrender.com" , "http://localhost:5176"],
+ origin:["https://vyomart-frontend.onrender.com" , "https://vyomart-admin.onrender.com"],
  credentials:true
 }))
 
