@@ -128,7 +128,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗 [Vyomart on Render](vyomart-frontend.onrender.com) 
+🔗 [Vyomart on Render](https://vyomart-frontend.onrender.com) 
 
 ---
 
