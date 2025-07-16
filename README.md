@@ -1,6 +1,6 @@
 # 🧠 Vyomart – AI-Driven Smart Shopping Experience 🛒
 
-Vyomart is a full-featured AI-powered E-Commerce platform built using the **MERN stack**. It supports secure Google login, real-time stock updates, Razorpay payments, an admin dashboard, and smart product recommendations. Perfect for final-year projects and real-world deployment!
+Vyomart is a full-featured AI-powered E-Commerce platform built using the **MERN stack**. It supports secure Google login, real-time stock updates, Razorpay payments, an admin dashboard, and smart product recommendations. 
 
 ---
 
